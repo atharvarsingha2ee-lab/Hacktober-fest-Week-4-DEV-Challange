@@ -1,0 +1,6 @@
+{
+  "name": "The Séance of COBOL-85",
+  "description": "An offline-ready gothic mainframe terminal channeling the spirit of COBOL-85 with AI séance chamber, punch card compiler, and Hacktoberfest submission suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
